@@ -1,4 +1,4 @@
-# ChemAlive ConstruQt API
+# Landing page for ChemAlive ConstruQt API
 ### Propulsion Academy Bootcamp Final Project
 
 This project has been done as my final project for Full-Stack Development Bootcamp (Propulsion Academy, Zurich) together with Giorgos Xonikis (https://github.com/GiorgosXonikis). The goal of the project was to create a graphical user interface for chemical software (ConstruQt API). 
